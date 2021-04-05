@@ -1,5 +1,5 @@
 {
-    "name": "artistas/laravel-pagseguro",
+    "name": "celtyvsk/laravel-pagseguro",
     "description": "PagSeguro Checkout Transparente e Pagamento Recorrente(Assinaturas) no Laravel 5.*, 6.*, 7.* e 8.*",
     "type": "library",
     "license": "MIT",
